@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Prem Choudhary!  
-![](https://raw.githubusercontent.com/premc5731/premc5731/main/Github-Banner.png
+![](https://raw.githubusercontent.com/premc5731/premc5731/main/Github_Banner_Wide_NoStretch.png
 )
 ### 🚀 Core Developer & Tech Enthusiast  
 
