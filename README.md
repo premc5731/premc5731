@@ -1,11 +1,32 @@
 # 👋 Hello, I'm Prem Choudhary!  
 ![](https://raw.githubusercontent.com/premc5731/premc5731/main/GitHub_Banner.png
 )
-### 🚀 Core Developer & Tech Enthusiast  
+## 🚀 Core Developer & Tech Enthusiast
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<table>
+  <tr>
+    <td>
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=default&hide=contribs#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- GitHub Stats (Dark mode) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs#gh-dark-mode-only" />
+</a>
+
+<!-- GitHub Stats (Light mode) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=default&hide=contribs#gh-light-mode-only" />
+</a>
+
+</td>
+<td>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premc5731&layout=compact&theme=tokyonight" />
+
+</td>
+  </tr>
+</table>
+
 
 
 ---
