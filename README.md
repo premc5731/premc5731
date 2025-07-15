@@ -31,7 +31,7 @@
 
 ---
 
-## 🧐 About Me  
+## About Me  
  
 Hi there! I’m **Prem Choudhary**, currently pursuing my **Master's in Computer Applications** at **MIT WPU, Pune**. with a strong interest in **software development** and emerging technologies. I work with languages such as C, C++, Java, and Python, and have experience with tools like Spring Boot, MySQL, MongoDB, Git, and Docker.
 
