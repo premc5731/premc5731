@@ -6,13 +6,11 @@
 <table>
   <tr>
     <td>
-
-<!-- GitHub Stats (Dark mode) -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs#gh-dark-mode-only" />
-</a>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" />
+  </a>
 </td>
+
 <td>
 
 <!-- Top Languages Card -->
