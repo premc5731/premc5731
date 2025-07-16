@@ -2,23 +2,23 @@
 ![](https://raw.githubusercontent.com/premc5731/premc5731/main/GitHub_Banner.png
 )
 ## 🚀 Core Developer & Tech Enthusiast
-
 <table>
   <tr>
     <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" />
-  </a>
-</td>
-
-<td>
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premc5731&layout=compact&theme=tokyonight" />
-
-</td>
+      <!-- GitHub Stats Card -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <!-- Top Languages Card -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premc5731&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
