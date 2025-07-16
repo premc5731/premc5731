@@ -4,7 +4,7 @@
 ## 🚀 Core Developer & Tech Enthusiast
 <table>
   <tr>
-    <td>
+    <td style="padding-right: 20px;">
       <!-- GitHub Stats Card -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" />
@@ -18,6 +18,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
