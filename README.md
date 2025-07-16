@@ -12,11 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=tokyonight&hide=contribs#gh-dark-mode-only" />
 </a>
 
-<!-- GitHub Stats (Light mode) -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=premc5731&rank_icon=github&show_icons=true&theme=default&hide=contribs#gh-light-mode-only" />
-</a>
-
 </td>
 <td>
 
