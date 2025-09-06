@@ -49,9 +49,10 @@ Here's a quick overview of the technologies and tools I've worked with:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 
 ### ☁️ Cloud / AWS Services
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) EC2 · S3 · Lambda · ECS · EBS · AMI · ELB · ASG
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-
+### 🤖 Machine Learning & Deep Learning
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pandas,numpy,matplotlib)](https://skillicons.dev)
 
 ---
 
