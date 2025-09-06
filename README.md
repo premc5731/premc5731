@@ -48,6 +48,14 @@ Here's a quick overview of the technologies and tools I've worked with:
 ### 🛢️ Databases & Storage
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 
+### ☁️ Cloud / AWS Services
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white) 
+![EC2](https://img.shields.io/badge/EC2-orange?logo=amazon-aws&logoColor=white) 
+![S3](https://img.shields.io/badge/S3-blue?logo=amazon-aws&logoColor=white) 
+![Lambda](https://img.shields.io/badge/Lambda-red?logo=amazon-aws&logoColor=white) 
+![ECS](https://img.shields.io/badge/ECS-green?logo=amazon-aws&logoColor=white)
+
+
 ---
 
 ## 🌐 Connect with Me  
