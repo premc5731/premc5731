@@ -39,7 +39,7 @@ Here's a quick overview of the technologies and tools I've worked with:
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,html,css)](https://skillicons.dev)
 
 ### ⚙️ FrameWorks , DevOps & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,spring)](https://skillicons.dev)
 
 ### 📟 IDE
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
